@@ -1,7 +1,7 @@
 script_name("Рп отыгровки для медиков by FreX")
 script_author('FreX')
 script_description('Хелпер упрощаюший игровой процесс для Аризона РП by FreX')
-script_version("02.02.2024")
+script_version("01.02.2024")
 require "lib.moonloader"
 local sampev = require 'lib.samp.events'
 local tag = 'Рп отыгровки для медиков by FreX'
